@@ -3,20 +3,14 @@
 This repository contains the official implementation of **Confidence-V2X**, a novel multimodal end-to-end autonomous driving algorithm presented in our paper:  
 **"Confidence-Driven Sparse Communication for Efficient V2X Cooperative Perception"**.  
 
-BiFusion introduces a **bilateral modality interaction framework** to leverage the complementarity between RGB images and LiDAR point clouds, addressing the challenges of cross-modal data fusion in autonomous driving systems.
-
+ Confidence-V2X introduces a novel method to achieve a balance between object detection accuracy and communication load for V2X cooperative perception.
 ---
 # 🖼️ Framework Overview
 
-Below is the framework of the proposed BiFusion algorithm:  
+Below is the framework of the proposed Confidence-V2X algorithm:  
 
-![BiFusion Framework](https://github.com/YzMark2r/BiFusion/blob/main/Fig_framework.png)
+![BiFusion Framework]([https://github.com/Rwang0208/Confidence-V2X/blob/main/figmain.pdf])
 
-## 🎥 Demo Video
-
-Watch the demo video showcasing the performance of BiFusion here:  
-
-[![BiFusion Demo](https://img.youtube.com/vi/yGMN2xTfK00/0.jpg)](https://www.youtube.com/watch?v=yGMN2xTfK00)
 
 ## 🚧 Repository Status
 
