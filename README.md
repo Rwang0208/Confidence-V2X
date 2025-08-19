@@ -1,6 +1,6 @@
 # Confidence-V2X: Confidence-Driven Sparse Communication for Efficient V2X Cooperative Perception
 
-This repository contains the official implementation of **Confidence-V2X**, a novel multimodal end-to-end autonomous driving algorithm presented in our paper:  
+This repository contains the official implementation of **Confidence-V2X**, a novel cooperative perception algorithm presented in our paper:  
 **"Confidence-Driven Sparse Communication for Efficient V2X Cooperative Perception"**.  
 
  Confidence-V2X introduces a novel method to achieve a balance between object detection accuracy and communication load for V2X cooperative perception.
