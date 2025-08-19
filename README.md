@@ -9,7 +9,7 @@ This repository contains the official implementation of **Confidence-V2X**, a no
 
 Below is the framework of the proposed Confidence-V2X algorithm:  
 
-![Confidence-V2X Framework]([https://github.com/Rwang0208/Confidence-V2X/blob/main/image/Confidence-V2X.png])
+![Confidence-V2X Framework](https://github.com/Rwang0208/Confidence-V2X/blob/main/image/Confidence-V2X.png)
 
 
 ## 🚧 Repository Status
